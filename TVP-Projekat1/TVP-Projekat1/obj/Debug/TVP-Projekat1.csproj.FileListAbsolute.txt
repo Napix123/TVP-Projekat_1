@@ -1,0 +1,6 @@
+C:\Users\nikpo\Desktop\Rad za Fakultet\4.semestar\Tehnike vizuelnog programiranja\Projekti\TVP-Projekat1\obj\Debug\TVP-Projekat1.csproj.AssemblyReference.cache
+C:\Users\nikpo\Desktop\Rad za Fakultet\4.semestar\Tehnike vizuelnog programiranja\Projekti\TVP-Projekat1\obj\Debug\TVP-Projekat1.csproj.SuggestedBindingRedirects.cache
+C:\Users\nikpo\Desktop\Rad za Fakultet\4.semestar\Tehnike vizuelnog programiranja\Projekti\TVP-Projekat1\obj\Debug\Dash.Forms.LoginContainer.resources
+C:\Users\nikpo\Desktop\Rad za Fakultet\4.semestar\Tehnike vizuelnog programiranja\Projekti\TVP-Projekat1\obj\Debug\TVP_Projekat1.Properties.Resources.resources
+C:\Users\nikpo\Desktop\Rad za Fakultet\4.semestar\Tehnike vizuelnog programiranja\Projekti\TVP-Projekat1\obj\Debug\TVP-Projekat1.csproj.GenerateResource.cache
+C:\Users\nikpo\Desktop\Rad za Fakultet\4.semestar\Tehnike vizuelnog programiranja\Projekti\TVP-Projekat1\obj\Debug\TVP-Projekat1.csproj.CoreCompileInputs.cache
